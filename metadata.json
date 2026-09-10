@@ -1,0 +1,6 @@
+{
+  "name": "BiteCraft - Premium Restaurant & Dining",
+  "description": "Crafted Fresh. Made to Crave. BiteCraft is a modern, premium food brand offering artisanal burgers, crispy chicken, handcrafted pizzas, pastas, and gourmet sides.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
